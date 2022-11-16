@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "289593450274",
+    "project_id": "statussaver-bb9ef",
+    "storage_bucket": "statussaver-bb9ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289593450274:android:05777211c9e54e08038f7b",
+        "android_client_info": {
+          "package_name": "com.whatsappbusiness.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289593450274-6jop8oqdhjur72u86s0hukrm0b21eq5g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArdbHLQLsdSBJGuLr9tA1EYhRr1LGN6Js"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289593450274-6jop8oqdhjur72u86s0hukrm0b21eq5g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

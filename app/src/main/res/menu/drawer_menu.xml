@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+
+        <item android:id="@+id/drawer_whatsapp"
+            android:title="WhatsaApp"/>
+
+        <item android:id="@+id/drawer_whatsapp_business"
+            android:title="Business WhatsApp"/>
+
+        <item android:id="@+id/drawer_whatsapp_gb"
+            android:title="GB WhatsaApp"/>
+
+    </group>
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group2">
+
+        <item android:id="@+id/drawer_share"
+            android:title="Share App"
+            android:iconTint="@color/white"
+            android:checkable="false"
+            android:icon="@drawable/ic_baseline_share_24"/>
+
+        <item android:id="@+id/drawer_rate"
+            android:iconTint="@color/white"
+            android:checkable="false"
+            android:icon="@drawable/ic_baseline_star_rate_24"
+            android:title="Rate Us"/>
+
+    </group>
+
+</menu>

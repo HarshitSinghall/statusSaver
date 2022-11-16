@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StatusSaver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="onBoarding_title_1">Steps</string>
+    <string name="onBoarding_title_2">Step 1</string>
+    <string name="onBoarding_title_3">Step 2</string>
+    <string name="onBoarding_title_4">Step 3</string>
+    <string name="onBoarding_title_5">Step 4</string>
+    <string name="onBoarding_title_6">Step 5</string>
+    <string name="onBoarding_title_7">Step 6</string>
+    <string name="onBoarding_title_8">Step 7</string>
+
+
+
+    <string name="onBoarding_desc_1">Follow these steps to setup the application if you don\'t redirected to \".statuses\" or \"GBWhatsApp_Statuses\" folder</string>
+    <string name="onBoarding_desc_2">Select \"Show hidden files\". Then click on \"Android\" folder</string>
+    <string name="onBoarding_desc_3">Now Select \"media\" folder</string>
+    <string name="onBoarding_desc_4">Select folder name for Whatsapp \"com.whatsapp\", for WhatsApp Business select \"com.whatsapp.w4b\" and for GBWhatsApp select \"com.gbwhatsapp\". </string>
+    <string name="onBoarding_desc_5">Then Select folder for Whatsapp \"WhatsApp\", for WhatsApp Business select \"WhatsApp Business\" and for GBWhatsApp select \"GBWhatsApp\"</string>
+    <string name="onBoarding_desc_6">Now Select folder name \"Media\"</string>
+    <string name="onBoarding_desc_7">Then Select folder for Whatsapp \".Statuses\", for WhatsApp Business select \".Statuses\" and for GBWhatsApp select \"GBWhatsApp_Statuses\"</string>
+    <string name="onBoarding_desc_8">Finally Click on \"Use This Folder\"</string>
+
+
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+
+
+</resources>
